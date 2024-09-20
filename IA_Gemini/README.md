@@ -2,7 +2,7 @@
 
 ### Imersão Inteligência Artificial 2ª Edição
 
-### Aula01 - Mergulahndo no Gemini, a IA do Google
+### Aula01 - Mergulhando no Gemini, a IA do Google
 
 Nesta aula, vamos começar o nosso mergulho conhecendo o Gemini, a IA do Google, e ver como ele consegue criar tabelas, escrever poemas, gerar códigos e muito mais. Além disso, vamos conhecer também o Google AI Studio.
 
