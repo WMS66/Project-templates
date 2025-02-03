@@ -1,2 +1,21 @@
 # .DS_Store
 .DS_Store/
+# Ignorar arquivos de bytecode Python compilados
+*.pyc
+# Ignorar diretórios de cache do Python
+__pycache__/
+# Ignorar configurações específicas do ambiente
+.env
+# Ignorar arquivos específicos do editor
+.vscode/
+.ideia/
+*.sublime-*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
