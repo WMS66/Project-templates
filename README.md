@@ -7,3 +7,5 @@
 - api-java-spring
 - docker-python
 - IA_gemini
+- pipelines
+
