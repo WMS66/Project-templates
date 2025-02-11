@@ -8,4 +8,6 @@
 - docker-python
 - IA_gemini
 - pipelines
+- scraping
+
 
