@@ -9,5 +9,7 @@
 - IA_gemini
 - pipelines
 - scraping
+- DockerCompose
+
 
 
